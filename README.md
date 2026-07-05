@@ -1,4 +1,4 @@
-## Hi there 👋
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
 
 <!--
 **happyethan2/happyethan2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
