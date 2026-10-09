@@ -2,7 +2,7 @@
 
 ### Hey, I'm Ethan.
 
-Engineer and applied-maths/stats person!
+Engineer and data scientist!
 
 - 🔭 Building **Payphone Pathfinder** — a routing/optimisation web app for the popular [Payphone Tag](https://payphonetag.com/)
 - 🌱 Interested in AI, maths, meditation, metabolic science
